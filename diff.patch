@@ -1,0 +1,10 @@
+diff --git a/1.txt b/1.txt
+index 1050001..74f5c16 100644
+--- a/1.txt
++++ b/1.txt
+@@ -1 +1,2 @@
+-asd
+\ No newline at end of file
++asd
++sad
+\ No newline at end of file
